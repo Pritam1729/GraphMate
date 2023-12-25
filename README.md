@@ -14,7 +14,7 @@ GraphMate is a web application designed to assist blind individuals in understan
 - **Backend:** Flask
 - **Frontend:** HTML, CSS
 - **NLP:** OpenAI API
-- **Audio Processing:** [Specify your audio processing library/tool]
+- **Audio Processing:** TextToSpeech-Python
 - **Speech-to-Text:** JavaScript
 
 ## Getting Started
@@ -43,14 +43,9 @@ We welcome contributions! If you would like to contribute to GraphMate, please f
 
 Your feedback is valuable. If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/yourusername/GraphMate/issues).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
 ## Acknowledgments
 
-- Special thanks to [contributors](CONTRIBUTORS.md) who have helped make GraphMate better.
+- Special thanks to Pranav Sridhar, Rehaan Shaweez and Neelalohit  who have helped to make GraphMate .
 
 ---
 
-**Note:** Replace placeholders such as `[Your Project Name]`, `[Your Description]`, `[Your Prerequisites]`, etc., with your actual project details. Specify the audio processing library or tool you are using in the tech stack section.
