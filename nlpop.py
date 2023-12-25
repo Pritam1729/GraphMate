@@ -3,7 +3,7 @@
 def nlp(text) :
     import openai
     chatstr= ""
-    openai.api_key = "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"
+    openai.api_key = "YOUR API KEY"
     chatstr = f"Kill previous History and just give me mathematical expression from the sentence, don't explain or try to solve '{text}' it should be parsable by python in lowercase and should have all symbols (+,-,*,/)"
     # print(chatstr)
 
@@ -25,7 +25,7 @@ def nlp(text) :
 def nlpdes(text):
     import openai
     chatstr= ""
-    openai.api_key = "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"
+    openai.api_key = "YOUR API KEY"
     chatstr = f"{text} mention just it's domain and range in words in one line"
 
     try:
