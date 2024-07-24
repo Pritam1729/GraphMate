@@ -12,7 +12,7 @@ GraphMate is a web application designed to assist blind individuals in understan
 ## Tech Stack
 
 - **Backend:** Flask
-- **Frontend:** HTML, CSS
+- **Frontend:** HTML, CSS, Javascript
 - **NLP:** OpenAI API
 - **Graph Processing:** Function Developed using Python
 - **Audio Processing:** TextToSpeech-Python
